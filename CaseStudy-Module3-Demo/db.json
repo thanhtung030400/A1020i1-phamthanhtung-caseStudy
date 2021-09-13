@@ -1,0 +1,53 @@
+{
+  "employees": [
+    { "id": 1,
+      "fullName": "tung",
+      "position": "nhan vien",
+      "academicLevel": "dai hoc",
+      "part": "kinh doanh",
+      "dateOfBirth": "1/1/2000",
+      "identityNumber": "123456789",
+      "salary": "8",
+      "email": "t@gmail.com",
+      "phoneNumber": "0905666666",
+      "address": "da nang"
+    },
+    { "id": 2,
+      "fullName": "tuan",
+      "position": "nhan vien",
+      "academicLevel": "dai hoc",
+      "part": "kinh doanh",
+      "dateOfBirth": "2/1/2002",
+      "identityNumber": "987654321",
+      "salary": "9",
+      "email": "a@gmail.com",
+      "phoneNumber": "0905777777",
+      "address": "quang nam"
+    },
+    { "id": 3,
+      "fullName": "thang",
+      "position": "nhan vien",
+      "academicLevel": "cao dang",
+      "part": "kinh doanh",
+      "dateOfBirth": "1/1/1999",
+      "identityNumber": "456789321",
+      "salary": "10",
+      "email": "b@gmail.com",
+      "phoneNumber": "0905888888",
+      "address": "hue"
+    }
+  ],
+  "customers": [
+    { "id": 1,
+      "fullName": "thang a",
+      "email": "ab@gmail.com",
+      "phoneNumber": "0905888888"
+    },
+    { "id": 2,
+      "fullName": "thang b",
+      "email": "bc@gmail.com",
+      "phoneNumber": "0905888888"
+    }
+  ]
+
+}
